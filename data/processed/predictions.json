@@ -1,0 +1,12 @@
+[
+  {
+    "text": "This product is amazing!",
+    "sentiment": "positive",
+    "score": 0.92
+  },
+  {
+    "text": "Very bad experience",
+    "sentiment": "negative",
+    "score": 0.12
+  }
+]

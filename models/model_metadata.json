@@ -1,0 +1,6 @@
+{
+  "model_name": "Logistic Regression",
+  "accuracy": 0.87,
+  "features": "TF-IDF",
+  "version": "1.0"
+}
